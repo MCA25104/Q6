@@ -1,5 +1,6 @@
 public class code {
 public static void main (String args[]){
   System.out.println("This is an Example of Hooks");
+  System.out.println("Code Modified");
   }
 }
